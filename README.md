@@ -4,7 +4,7 @@
 [![hexdocs.pm](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/ex_printnode/)
 [![hex.pm](https://img.shields.io/hexpm/dt/ex_printnode.svg)](https://hex.pm/packages/ex_printnode)
 [![hex.pm](https://img.shields.io/hexpm/l/ex_printnode.svg)](https://hex.pm/packages/ex_printnode)
-[![github.com](https://img.shields.io/github/last-commit/Vetspire/ex_printnode.svg)](https://github.com/Vetspire/ex_printnode/commits/master)
+[![github.com](https://img.shields.io/github/last-commit/Vetspire-VSP/ex_printnode.svg)](https://github.com/Vetspire-VSP/ex_printnode/commits/master)
 
 Small [HTTPoison](https://github.com/edgurgel/httpoison) based wrapper around [PrintNode API](https://www.printnode.com/en/docs/api/curl).
 
