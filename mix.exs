@@ -1,7 +1,7 @@
 defmodule PrintNode.MixProject do
   use Mix.Project
 
-  @source_url "https://github.com/vetspire/ex_printnode"
+  @source_url "https://github.com/Vetspire-VSP/ex_printnode"
 
   def project do
     [
